@@ -21,7 +21,7 @@ end
 
 
 Capybara.configure do |config|
-  config.default_driver = :selenium ##firefox -> selenium | chrome -> selenium_chrome
+  config.default_driver = :selenium_chrome ##firefox -> selenium | chrome -> selenium_chrome
 end
 
 
