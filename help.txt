@@ -1,0 +1,8 @@
+-> Erro na versão do ChromeDriver:
+
+| Selenium::WebDriver::Error::SessionNotCreatedError:
+|       session not created: This version of ChromeDriver only supports Chrome version 99
+|       Current browser version is 102.0.5005.115 with binary path C:\Program Files\Google| \Chrome\Application\chrome.exe
+
+
+Resolução: foi atualizado o arquivo do ChromeDriver em -> C:\Windows
