@@ -9,4 +9,5 @@
 
 📝 2) Capybara: Automatiza testes para aplicações
 - Instalação e configuração do Capybara
-- 
+- Preenchendo formulário
+- Validando notificação
