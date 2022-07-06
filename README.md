@@ -1,6 +1,5 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-
 # 🎯 QA Ninja - Ruby, Capybara, RSpec e Cucumber
 
 Ruby: linguagem dinâmica, open source com foco na simplicidade e na produtividade. Tem uma sintaxe elegante de leitura natural e fácil escrita.
