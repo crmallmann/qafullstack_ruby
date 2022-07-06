@@ -11,3 +11,4 @@
 - Instalação e configuração do Capybara
 - Preenchendo formulário
 - Validando notificações
+- Select (ComboBox)
