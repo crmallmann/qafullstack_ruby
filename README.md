@@ -1,4 +1,6 @@
-🎯 QA Ninja - Ruby, Capybara, RSpec e Cucumber
+
+
+# 🎯 QA Ninja - Ruby, Capybara, RSpec e Cucumber
 
 Ruby: linguagem dinâmica, open source com foco na simplicidade e na produtividade. Tem uma sintaxe elegante de leitura natural e fácil escrita.
 
